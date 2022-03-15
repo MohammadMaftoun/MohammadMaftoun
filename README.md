@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MohammadMaftoun
+- 👀 I’m interested in (Web Development/Data Science/A.I)
+- 🌱 I’m currently learning A.I
+- 📫 How to reach me: mohammad.maftoun1378@gmail.com
