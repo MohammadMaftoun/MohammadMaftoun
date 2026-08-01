@@ -38,42 +38,45 @@
 <!-- 🌈 Animated Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ## 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Coding GIF" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF" />
+
 ```python
 class MohammadMaftoun:
-role = "Full Stack Data Scientist | AI Software Engineer"
+    role = "Full Stack Data Scientist | AI Software Engineer"
 
-interests = [
-"Machine Learning", "Deep Learning", "LLMs",
-"Vision Language Models", "Multi-Agent Systems",
-"MLOps", "AI Research", "Medical AI"
-]
+    interests = [
+        "Machine Learning", "Deep Learning", "LLMs",
+        "Vision Language Models", "Multi-Agent Systems",
+        "MLOps", "AI Research", "Medical AI"
+    ]
 
-languages = ["Python", "SQL", "JavaScript", "TypeScript"]
+    languages = ["Python", "SQL", "JavaScript", "TypeScript"]
 
-currently_working = [
-"Large Language Models", "Medical AI",
-"AI Agents", "Distributed AI Systems", "RAG Systems"
-]
+    currently_working = [
+        "Large Language Models", "Medical AI",
+        "AI Agents", "Distributed AI Systems", "RAG Systems"
+    ]
 
-daily_fuel = ["☕ Coffee", "🎧 Music", "📄 Papers"]
+    daily_fuel = ["☕ Coffee", "🎧 Music", "📄 Papers"]
 
-motto = "Build. Research. Improve. Repeat."
+    motto = "Build. Research. Improve. Repeat."
+```
 
 <br clear="right"/>
 
-- 🔭 **Currently working on:** LLM-powered agents & Medical AI systems
-- 🌱 **Currently learning:** Distributed AI & advanced RAG architectures
-- 💬 **Ask me about:** PyTorch, LLMs, Computer Vision, FastAPI, MLOps
-- ⚡ **Fun fact:** I read AI research papers the way others read novels 📄
+- 🔭 **Currently working on:** **LLM-powered agents** & **Medical AI** systems
+- 🌱 **Currently learning:** **Distributed AI** & advanced **RAG** architectures
+- 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**
+- ⚡ **Fun fact:** I read **AI research papers** the way others read novels 📄
 
 <!-- ✨ Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 ## 🧠 Interests Area
 
 <div align="center">
