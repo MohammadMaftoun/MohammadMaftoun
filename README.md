@@ -158,22 +158,25 @@ class MohammadMaftoun:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=A78BFA&text_color=E2E8F0&count_private=true" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0B1120&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0B1120&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=E2E8F0" height="175em" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/MohammadMaftoun/MohammadMaftoun/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/MohammadMaftoun/MohammadMaftoun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
+
+> **Note:** اگر Snake نمایش داده نشد، باید Action مربوط به آن را یک‌بار در ریپوی پروفایلت اجرا کنی (Platane/snk).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
