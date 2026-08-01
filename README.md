@@ -1,4 +1,3 @@
-
 <!-- ══════════════════════════════════════════
       🌊 Animated Wave Header
 ═══════════════════════════════════════════ -->
@@ -10,11 +9,8 @@
       ⌨️ Typing Animation
 ═══════════════════════════════════════════ -->
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Mohammad+Maftoun;Full+Stack+Data+Scientist;AI+Software+Engineer+%7C+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Vision-Language+Models+%7C+Multi-Agent+AI;Research+Driven+Engineering;Always+Learning+Something+New" />
-
 </div>
 
 <!-- ══════════════════════════════════════════
@@ -36,8 +32,6 @@
 </div>
 
 <!-- 🌈 Animated Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🚀 About Me
@@ -77,60 +71,22 @@ class MohammadMaftoun:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ## 🧠 Interests Area
 
 <div align="center">
 
-<table>
-  <tr>
-<th>🤖 LLMs & Agents</th>
-<th>👁️ Vision & Multimodal</th>
-<th>🩺 Medical AI</th>
-<th>⚡ Systems</th>
-  </tr>
-  <tr>
-<td>Large Language Models</td>
-<td>Vision-Language Models</td>
-<td>Medical Imaging</td>
-<td>Multi-Agent Systems</td>
-  </tr>
-  <tr>
-<td>RAG & PEFT</td>
-<td>Image Processing</td>
-<td>Healthcare AI</td>
-<td>MLOps</td>
-  </tr>
-  <tr>
-<td>Cognitive AI</td>
-<td>Computer Vision</td>
-<td>Explainable AI</td>
-<td>Distributed AI</td>
-  </tr>
-  <tr>
-<th>🗣️ Speech & NLP</th>
-<th>🛠️ Engineering</th>
-<th>📊 Data & Research</th>
-<th>💡 Soft Skills</th>
-  </tr>
-  <tr>
-<td>Speech-to-Text (STT)</td>
-<td>Full Stack AI Apps</td>
-<td>Data Analysis</td>
-<td>Problem Solving</td>
-  </tr>
-  <tr>
-<td>Text-to-Speech (TTS)</td>
-<td>MLOps Pipelines</td>
-<td>Scientific Computing</td>
-<td>Research Mindset</td>
-  </tr>
-  <tr>
-<td>OCR & NLP (Hazm)</td>
-<td>API Design (FastAPI)</td>
-<td>Experiment Tracking</td>
-<td>Continuous Learning</td>
-  </tr>
-</table>
+| 🤖 LLMs & Agents | 👁️ Vision & Multimodal | 🩺 Medical AI | ⚡ Systems |
+|:---:|:---:|:---:|:---:|
+| Large Language Models | Vision-Language Models | Medical Imaging | Multi-Agent Systems |
+| RAG & PEFT | Image Processing | Healthcare AI | MLOps |
+| Cognitive AI | Computer Vision | Explainable AI | Distributed AI |
+
+| 🗣️ Speech & NLP | 🛠️ Engineering | 📊 Data & Research | 💡 Soft Skills |
+|:---:|:---:|:---:|:---:|
+| Speech-to-Text (STT) | Full Stack AI Apps | Data Analysis | Problem Solving |
+| Text-to-Speech (TTS) | MLOps Pipelines | Scientific Computing | Research Mindset |
+| OCR & NLP (Hazm) | API Design (FastAPI) | Experiment Tracking | Continuous Learning |
 
 </div>
 
@@ -192,42 +148,46 @@ class MohammadMaftoun:
   <img src="https://img.shields.io/badge/Qwen-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/
-badge/LM%20Studio-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LM%20Studio-7C3AED?style=for-the-badge" />
 </p>
 </details>
-<!-- ✨ Divider -->
-<div align=“center”>
-<img src=“https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif” width=“100%”>
-</div>
-📊 GitHub Analytics
-<div align=“center”>
-<img height=“180em” src=“https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&icon_color=A78BFA&text_color=FFFFFF” />
-<img height=“180em” src=“https://github-readme-streak-stats.herokuapp.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0D1117&ring=3BA4F2&fire=A78BFA&currStreakLabel=3BA4F2” />
-</div>
-<br>
-<div align=“center”>
-<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&text_color=FFFFFF” />
-</div>
-<!-- ✨ Snake Game Graph -->
-<div align=“center”>
-<img src=“https://github.com/MohammadMaftoun/MohammadMaftoun/blob/output/github-contribution-grid-snake.svg” alt=“snake” />
-</div>
-<!-- ══════════════════════════════════════════
-🔗 Connect
-═══════════════════════════════════════════ -->
-<h2 align=“center”>🌍 Connect with Me</h2>
-<div align=“center”>
-<a href=“https://ir.linkedin.com/in/mohammad-maftoun” target=“_blank”>
-<img src=“https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white” />
-</a>
-<a href=“mailto:YOUR_EMAIL” target=“_blank”>
-<img src=“https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white” />
-</a>
-<a href=“https://github.com/MohammadMaftoun” target=“_blank”>
-<img src=“https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white” />
-</a>
-</div>
-________________________________________
-`
 
+<!-- ✨ Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&icon_color=A78BFA&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0D1117&ring=3BA4F2&fire=A78BFA&currStreakLabel=3BA4F2" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&text_color=FFFFFF" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://github.com/MohammadMaftoun/MohammadMaftoun/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<!-- ══════════════════════════════════════════
+      🔗 Connect
+═══════════════════════════════════════════ -->
+<h2 align="center">🌍 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://ir.linkedin.com/in/mohammad-maftoun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohammadMaftoun" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
