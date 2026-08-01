@@ -89,13 +89,14 @@ class MohammadMaftoun:
 
 ### 🧠 AI / Machine Learning / Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-2C7BB6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skorch-EA580C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" height="40" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Optuna-2C7BB6?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Skorch-EA580C?style=for-the-badge" height="40" />
 </p>
+
 
 ### 📊 Data Analysis & Visualization
 <p align="center">
