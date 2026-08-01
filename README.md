@@ -35,21 +35,67 @@
 
 ```python
 class MohammadMaftoun:
-    role = "AI Software Engineer | Full Stack Data Scientist"
+    role = "AI Software Engineer | Full Stack Data Scientist | AI Architect"
 
     focus = [
-        "Large Language Models", "Medical AI", "Education"
-        "Multi-Agent Systems", "RAG Architectures","Intelligent Business"
-        "Vision-Language Models", "MLOps"
+        "Large Language Models",
+        "Vision-Language Models",
+        "Medical AI & Healthcare Intelligence",
+        "Multi-Agent Systems",
+        "Retrieval-Augmented Generation (RAG)",
+        "Agentic AI & Self-Refinement Systems",
+        "Generative AI Applications",
+        "MLOps & AI Infrastructure",
+        "Intelligent Business Solutions",
+        "AI Research & Innovation"
     ]
 
-    stack = ["Python", "PyTorch", "FastAPI", "TypeScript"]
+    expertise = [
+        "Deep Learning",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Data Engineering",
+        "Software Architecture"
+    ]
 
-    currently = "Building intelligent systems that matter"
+    stack = [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "FastAPI",
+        "TypeScript",
+        "React",
+        "Docker",
+        "SQL",
+        "Cloud Technologies"
+    ]
 
-    fuel = ["☕ Coffee", "🎧 Music", "📄 Papers"]
+    research = [
+        "Reducing Hallucinations in AI Systems",
+        "Reliable Vision-Language Models",
+        "Evidence-Grounded AI",
+        "Healthcare Decision Support Systems"
+    ]
 
-    motto = "Build. Research. Improve. Repeat."
+    currently = "Building intelligent systems that bridge research, engineering, and real-world impact"
+
+    fuel = [
+        "☕ Coffee",
+        "🎧 Music",
+        "📄 Research Papers",
+        "🧠 Curiosity",
+        "🚀 Innovation"
+    ]
+
+    philosophy = [
+        "Learn deeply",
+        "Build intelligently",
+        "Research continuously",
+        "Improve relentlessly"
+    ]
+
+    motto = "Build. Research. Innovate. Repeat."
 ```
 
 <p align="center">
