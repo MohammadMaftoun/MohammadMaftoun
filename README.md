@@ -34,9 +34,14 @@
 ## 🚀 About Me
 
 ```python
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
-
     domains = [
         "LLMs",
         "Medical AI",
@@ -45,25 +50,18 @@ class MohammadMaftoun:
         "RAG Systems",
         "MLOps"
     ]
-
     stack = [
         "Python",
         "Deep Learning",
         "FastAPI",
         "JavaScript"
     ]
-
     building = "Intelligent systems for real-world impact"
-
     fuel = "☕ Coffee | 🎧 Music | 📄 Papers"
-
     motto = "Build. Research. Improve."
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding" />
-</p>
-
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding" />
 <br>
 
 - 🔭 **Working on:** LLM-powered agents & **Medical AI** systems
