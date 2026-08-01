@@ -42,38 +42,42 @@ class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
 
     expertise = [
-        "🤖 Large Language Models",
-        "🧠 Deep Learning",
-        "👁️ Vision-Language Models",
-        "🩺 Medical AI",
-        "🔗 RAG Architectures",
+        "🤖 LLM Applications",
+        "🧠 Deep Learning Systems",
+        "👁️ Vision-Language AI",
+        "🩺 Medical AI Solutions",
+        "🔗 RAG Pipelines",
         "🤝 Multi-Agent Systems",
-        "⚙️ MLOps"
+        "⚙️ MLOps & AI Deployment"
     ]
 
-    tech_stack = [
+    engineering = [
         "🐍 Python",
         "🔥 PyTorch",
         "🚀 FastAPI",
-        "🌐 JavaScript",
-        "☁️ Cloud & DevOps"
+        "🌐 Full Stack Development",
+        "☁️ Cloud Infrastructure",
+        "🐳 Docker & Automation"
     ]
 
-    research = [
-        "📄 AI Research",
-        "🧬 Healthcare Intelligence",
-        "🔍 Explainable AI"
+    building = [
+        "🏗️ Production AI Systems",
+        "📊 Data-Driven Products",
+        "⚡ Scalable Intelligent Applications"
     ]
 
-    building = "Intelligent systems for real-world impact"
+    interested_in = [
+        "🔍 AI Research",
+        "💡 New Technologies"
+    ]
 
     fuel = [
         "☕ Coffee",
         "🎧 Music",
-        "📚 Research Papers"
+        "📚 Learning"
     ]
 
-    motto = "Build. Research. Improve."
+    motto = "Build. Deploy. Improve."
 ```
 
 </td>
@@ -81,20 +85,31 @@ class MohammadMaftoun:
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230" alt="Coding Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-3BA4F2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-00C7B7?style=for-the-badge&logo=openai&logoColor=white"/>
+
 <br>
 
-<img src="https://img.shields.io/badge/ML%20Research-A78BFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=probot&logoColor=white"/>
+
 <br>
 
-<img src="https://img.shields.io/badge/Medical%20AI-22C55E?style=for-the-badge&logo=health&logoColor=white"/>
+<img src="https://img.shields.io/badge/Production%20AI-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
+
 <br>
 
-<img src="https://img.shields.io/badge/LLM%20%26%20Agents-F59E0B?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Medical%20AI-E11D48?style=for-the-badge&logo=health&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
@@ -103,14 +118,15 @@ class MohammadMaftoun:
 
 <br>
 
-- 🔭 **Working on:** LLM-powered agents, **Medical AI** & intelligent AI systems  
-- 🌱 **Learning:** Distributed AI, advanced **RAG** architectures & Agentic workflows  
-- 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**  
-- ⚡ **Fun fact:** I read AI research papers the way others read novels 📄
+- 🔭 **Building:** Production-ready AI systems, LLM applications & intelligent automation  
+- 🌱 **Exploring:** Agentic AI, scalable architectures & advanced RAG systems  
+- 💬 **Ask me about:** **Deep Learning** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**  
+- ⚡ **Mindset:** Turning AI ideas into real-world products 🚀
 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+     
 </div>
 ## 🧠 What I Work On
 
