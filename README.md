@@ -2,7 +2,7 @@
       🌊 Animated Wave Header
 ═══════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=200&section=header&text=Mohammad%20Maftoun&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=Mohammad%20Maftoun&fontSize=58&fontColor=E0F2FE&animation=twinkling&fontAlignY=32&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Data%20Scientist&descAlignY=52&descSize=17&descColor=94A3B8" width="100%" />
 </div>
 
 <!-- ══════════════════════════════════════════
