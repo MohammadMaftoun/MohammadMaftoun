@@ -38,8 +38,8 @@ class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
 
     focus = [
-        "Large Language Models", "Medical AI",
-        "Multi-Agent Systems", "RAG Architectures",
+        "Large Language Models", "Medical AI", "Education"
+        "Multi-Agent Systems", "RAG Architectures","Intelligent Business"
         "Vision-Language Models", "MLOps"
     ]
 
