@@ -33,44 +33,68 @@
 
 ## 🚀 About Me
 
-```python
-## 🚀 About Me
-
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
+```python
 class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
+
     domains = [
-        "LLMs",
+        "Large Language Models",
         "Medical AI",
         "Vision-Language Models",
         "Agentic AI",
         "RAG Systems",
         "MLOps"
     ]
+
     stack = [
         "Python",
         "Deep Learning",
         "FastAPI",
-        "JavaScript"
+        "JavaScript",
+        "Cloud & DevOps"
     ]
+
     building = "Intelligent systems for real-world impact"
-    fuel = "☕ Coffee | 🎧 Music | 📄 Papers"
+
+    fuel = [
+        "☕ Coffee",
+        "🎧 Music",
+        "📄 Research Papers"
+    ]
+
     motto = "Build. Research. Improve."
 ```
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding" />
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Research-Driven-3BA4F2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+
 <br>
 
-- 🔭 **Working on:** LLM-powered agents & **Medical AI** systems
-- 🌱 **Learning:** Distributed AI systems & advanced **RAG** pipelines
-- 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**
+- 🔭 **Working on:** LLM-powered agents & **Medical AI** systems  
+- 🌱 **Learning:** Distributed AI systems & advanced **RAG** architectures  
+- 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**  
 - ⚡ **Fun fact:** I read AI research papers the way others read novels 📄
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 ## 🧠 What I Work On
 
 <div align="center">
