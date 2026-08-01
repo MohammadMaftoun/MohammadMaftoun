@@ -52,9 +52,9 @@ class MohammadMaftoun:
     motto = "Build. Research. Improve. Repeat."
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="900" alt="Coding" />
+</p>
 
 <br>
 
