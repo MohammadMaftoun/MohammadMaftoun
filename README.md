@@ -85,31 +85,46 @@ class MohammadMaftoun:
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" alt="Coding Animation"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%20Engineering-00C7B7?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C7B7" width="160"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=probot&logoColor=white"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1" width="160"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Production%20AI-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=22C55E" width="160"/>
 
-<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/MLOps%20%26%20Cloud-F97316?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F97316" width="160"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Medical%20AI-E11D48?style=for-the-badge&logo=health&logoColor=white"/>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="160"/>
 
-<img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI%20Backend-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
