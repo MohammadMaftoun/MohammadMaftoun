@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/AI_Software_Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack_Data_Scientist-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-22C55E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research_Driven-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelligent_Driven_Systems-f50b62?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </div>
 
 <br>
