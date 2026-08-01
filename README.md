@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/AI_Software_Engineer-A78BFA?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-Data_Scientist-3BA4F2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Researcher-A78BFA?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-22C55E?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
