@@ -35,67 +35,29 @@
 
 ```python
 class MohammadMaftoun:
-    role = "AI Software Engineer | Full Stack Data Scientist | AI Architect"
+    role = "AI Software Engineer | Full Stack Data Scientist"
 
-    focus = [
-        "Large Language Models",
+    domains = [
+        "LLMs",
+        "Medical AI",
         "Vision-Language Models",
-        "Medical AI & Healthcare Intelligence",
-        "Multi-Agent Systems",
-        "Retrieval-Augmented Generation (RAG)",
-        "Agentic AI & Self-Refinement Systems",
-        "Generative AI Applications",
-        "MLOps & AI Infrastructure",
-        "Intelligent Business Solutions",
-        "AI Research & Innovation"
-    ]
-
-    expertise = [
-        "Deep Learning",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Computer Vision",
-        "Data Engineering",
-        "Software Architecture"
+        "Agentic AI",
+        "RAG Systems",
+        "MLOps"
     ]
 
     stack = [
         "Python",
-        "PyTorch",
-        "TensorFlow",
+        "Deep Learning",
         "FastAPI",
-        "TypeScript",
-        "React",
-        "Docker",
-        "SQL",
-        "Cloud Technologies"
+        "JavaScript"
     ]
 
-    research = [
-        "Reducing Hallucinations in AI Systems",
-        "Reliable Vision-Language Models",
-        "Evidence-Grounded AI",
-        "Healthcare Decision Support Systems"
-    ]
+    building = "Intelligent systems for real-world impact"
 
-    currently = "Building intelligent systems that bridge research, engineering, and real-world impact"
+    fuel = "☕ Coffee | 🎧 Music | 📄 Papers"
 
-    fuel = [
-        "☕ Coffee",
-        "🎧 Music",
-        "📄 Research Papers",
-        "🧠 Curiosity",
-        "🚀 Innovation"
-    ]
-
-    philosophy = [
-        "Learn deeply",
-        "Build intelligently",
-        "Research continuously",
-        "Improve relentlessly"
-    ]
-
-    motto = "Build. Research. Innovate. Repeat."
+    motto = "Build. Research. Improve."
 ```
 
 <p align="center">
