@@ -41,21 +41,28 @@
 class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
 
-    domains = [
-        "Large Language Models",
-        "Medical AI",
-        "Vision-Language Models",
-        "Agentic AI",
-        "RAG Systems",
-        "MLOps"
+    expertise = [
+        "🤖 Large Language Models",
+        "🧠 Deep Learning",
+        "👁️ Vision-Language Models",
+        "🩺 Medical AI",
+        "🔗 RAG Architectures",
+        "🤝 Multi-Agent Systems",
+        "⚙️ MLOps"
     ]
 
-    stack = [
-        "Python",
-        "Deep Learning",
-        "FastAPI",
-        "JavaScript",
-        "Cloud & DevOps"
+    tech_stack = [
+        "🐍 Python",
+        "🔥 PyTorch",
+        "🚀 FastAPI",
+        "🌐 JavaScript",
+        "☁️ Cloud & DevOps"
+    ]
+
+    research = [
+        "📄 AI Research",
+        "🧬 Healthcare Intelligence",
+        "🔍 Explainable AI"
     ]
 
     building = "Intelligent systems for real-world impact"
@@ -63,7 +70,7 @@ class MohammadMaftoun:
     fuel = [
         "☕ Coffee",
         "🎧 Music",
-        "📄 Research Papers"
+        "📚 Research Papers"
     ]
 
     motto = "Build. Research. Improve."
@@ -71,13 +78,23 @@ class MohammadMaftoun:
 
 </td>
 
+
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Coding Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20Research-Driven-3BA4F2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-3BA4F2?style=for-the-badge&logo=openai&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/ML%20Research-A78BFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Medical%20AI-22C55E?style=for-the-badge&logo=health&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/LLM%20%26%20Agents-F59E0B?style=for-the-badge&logo=probot&logoColor=white"/>
 
 </td>
 </tr>
@@ -86,8 +103,8 @@ class MohammadMaftoun:
 
 <br>
 
-- 🔭 **Working on:** LLM-powered agents & **Medical AI** systems  
-- 🌱 **Learning:** Distributed AI systems & advanced **RAG** architectures  
+- 🔭 **Working on:** LLM-powered agents, **Medical AI** & intelligent AI systems  
+- 🌱 **Learning:** Distributed AI, advanced **RAG** architectures & Agentic workflows  
 - 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**  
 - ⚡ **Fun fact:** I read AI research papers the way others read novels 📄
 
