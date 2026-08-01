@@ -33,10 +33,6 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ```python
 class MohammadMaftoun:
     role = "AI Software Engineer | Full Stack Data Scientist"
@@ -56,18 +52,15 @@ class MohammadMaftoun:
     motto = "Build. Research. Improve. Repeat."
 ```
 
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding" />
+</div>
 
 <br>
 
 - 🔭 **Working on:** LLM-powered agents & **Medical AI** systems
 - 🌱 **Learning:** Distributed AI systems & advanced **RAG** pipelines
-- 💬 **Ask me about:** **PyTorch**, **LLMs**, **Computer Vision**, **FastAPI**, **MLOps**
+- 💬 **Ask me about:** **PyTorch** · **LLMs** · **Computer Vision** · **FastAPI** · **MLOps**
 - ⚡ **Fun fact:** I read AI research papers the way others read novels 📄
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -155,35 +148,36 @@ class MohammadMaftoun:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📈 Activity & Growth
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0B1120&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMaftoun&bg_color=0B1120&color=60A5FA&line=A78BFA&point=F0F9FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
+  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
-
-<br>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/MohammadMaftoun/MohammadMaftoun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-> **Note:** اگر Snake نمایش داده نشد، باید Action مربوط به آن را یک‌بار در ریپوی پروفایلت اجرا کنی (Platane/snk).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements & Highlights
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadMaftoun&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=4" />
+
+| 🔥 Building | 📚 Exploring | 🧪 Experimenting |
+|:-----------:|:------------:|:----------------:|
+| LLM Agents | Distributed AI | Vision-Language Models |
+| Medical AI Systems | Advanced RAG | Multi-Agent Orchestration |
+| Production MLOps | Scalable Inference | Explainable AI |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+research+into+real+systems;From+papers+to+production;Code.+Learn.+Ship.+Repeat." alt="Focus Typing" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
