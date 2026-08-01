@@ -74,6 +74,30 @@ class MohammadMaftoun:
     <td>Explainable AI</td>
     <td>Distributed AI</td>
   </tr>
+  <tr>
+    <th>🗣️ Speech & NLP</th>
+    <th>🛠️ Engineering</th>
+    <th>📊 Data & Research</th>
+    <th>💡 Soft Skills</th>
+  </tr>
+  <tr>
+    <td>Speech-to-Text (STT)</td>
+    <td>Full Stack AI Apps</td>
+    <td>Data Analysis</td>
+    <td>Problem Solving</td>
+  </tr>
+  <tr>
+    <td>Text-to-Speech (TTS)</td>
+    <td>MLOps Pipelines</td>
+    <td>Scientific Computing</td>
+    <td>Research Mindset</td>
+  </tr>
+  <tr>
+    <td>OCR & NLP (Hazm)</td>
+    <td>API Design (FastAPI)</td>
+    <td>Experiment Tracking</td>
+    <td>Continuous Learning</td>
+  </tr>
 </table>
 
 </div>
@@ -89,18 +113,21 @@ class MohammadMaftoun:
 
 ### 🧠 AI / Machine Learning / Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" height="40" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" />
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Optuna-2C7BB6?style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Skorch-EA580C?style=for-the-badge" height="40" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-2C7BB6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skorch-EA580C?style=for-the-badge" />
+</p>
 
 ### 📊 Data Analysis & Visualization
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphPad%20Prism-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mealpy-10B981?style=for-the-badge" />
@@ -130,6 +157,8 @@ class MohammadMaftoun:
 ### ⚙️ Backend & Full Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,react" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
@@ -137,6 +166,8 @@ class MohammadMaftoun:
 ### 🗄️ Databases & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PEFT-EC4899?style=for-the-badge" />
@@ -149,11 +180,26 @@ class MohammadMaftoun:
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&icon_color=A78BFA&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0D1117&ring=3BA4F2&fire=A78BFA&currStreakLabel=3BA4F2" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&text_color=FFFFFF" />
+</div>
+
+---
+
 
 ## 🌍 Connect with Me
 
 <div align="center">
-  <a href="https://ir.linkedin.com/in/mohammad-maftoun">
+  <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -183,5 +229,7 @@ class MohammadMaftoun:
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA4F2&height=100&section=footer" />
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA4F2&height=100&section=footer" />
 </div>
