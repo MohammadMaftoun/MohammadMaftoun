@@ -148,51 +148,11 @@ class MohammadMaftoun:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadMaftoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&icon_color=A78BFA&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMaftoun&theme=tokyonight&hide_border=true&background=0D1117&ring=3BA4F2&fire=A78BFA&currStreakLabel=3BA4F2" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMaftoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BA4F2&text_color=FFFFFF" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMaftoun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BA4F2&line=A78BFA&point=FFFFFF" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohammadMaftoun/MohammadMaftoun/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-> **نکته:** اگر snake نمایش داده نشد، باید GitHub Action مربوط به snake رو در ریپوی پروفایلت فعال کنی.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadMaftoun&theme=tokyonight&margin-w=15&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## 🌍 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://ir.linkedin.com/in/mohammad-maftoun">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
