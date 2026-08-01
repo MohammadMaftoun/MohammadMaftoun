@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=200&section=header&text=Mohammad%20Maftoun&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" />
 </div>
-
 <!-- ══════════════════════════════════════════
       ⌨️ Typing Animation
 ═══════════════════════════════════════════ -->
