@@ -36,7 +36,9 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF" />
+<table>
+<tr>
+<td width="62%">
 
 ```python
 class MohammadMaftoun:
@@ -60,7 +62,14 @@ class MohammadMaftoun:
     motto = "Build. Research. Improve. Repeat."
 ```
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Coding GIF" />
+</td>
+</tr>
+</table>
+
+<br>
 
 - 🔭 **Currently working on:** **LLM-powered agents** & **Medical AI** systems
 - 🌱 **Currently learning:** **Distributed AI** & advanced **RAG** architectures
