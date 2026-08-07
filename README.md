@@ -170,7 +170,7 @@ class MohammadMaftoun:
 <summary><b>🔥 Core Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tailwind" />
 </p>
 </details>
 
