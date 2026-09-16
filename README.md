@@ -227,16 +227,6 @@ class MohammadMaftoun:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Activity & Growth
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMaftoun&bg_color=0B1120&color=60A5FA&line=A78BFA&point=F0F9FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🎯 Current Focus
 
 <div align="center">
